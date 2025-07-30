@@ -1,6 +1,6 @@
 # DayDream X:
 <div align="center">
-        <img src="https://github.com/NightProxy/DayDreamX/blob/main/assets/DDXBanner.png" style="width: 1200px"/>
+        <img src="https://github.com/MinecraftPcGamer/DayDreamX/blob/main/assets/DDXBanner.png" style="width: 1200px"/>
     <h2>Explore the Web with DayDream X</h2>
 </div>
 
@@ -31,7 +31,7 @@ We recommend using the Bun package manager to install DayDreamX's dependencies. 
 Please run the following commands to host a server:
 
 ```
-git clone https://github.com/NightProxy/DayDreamX.git
+git clone https://github.com/MinecraftPcGamer/DayDreamX.git
 cd DayDreamX
 npm i
 npm start
